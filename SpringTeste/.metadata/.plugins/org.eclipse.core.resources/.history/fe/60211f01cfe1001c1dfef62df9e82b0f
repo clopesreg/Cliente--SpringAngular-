@@ -1,0 +1,5 @@
+package io.githutb.clopesreg.clientes.model.entity;
+
+public class Cliente {
+
+}
