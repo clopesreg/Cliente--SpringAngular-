@@ -1,4 +1,4 @@
-package io.github.clopesreg.clientes.config;
+ package io.github.clopesreg.clientes.config;
 
 import java.util.Locale;
 
